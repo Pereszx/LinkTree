@@ -1,6 +1,6 @@
 ## LinkTree 
 
-Para o desenvolvimento deste Game foram usadas as linguagens:
+Para o desenvolvimento deste site foram usadas as linguagens:
 
 -  <img align="center" alt="Kaua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML
   
